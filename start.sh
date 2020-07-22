@@ -1,3 +1,3 @@
 #!/bin/bash
 
-deno run  --allow-net --allow-run src/main.ts
+deno run  --allow-net --allow-read --allow-run src/main.ts
