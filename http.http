@@ -1,0 +1,5 @@
+### GET request for images
+GET localhost:1337/images
+
+### GET request for containers
+GET localhost:1337/containers
